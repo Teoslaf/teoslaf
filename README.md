@@ -5,7 +5,7 @@ A soon-to-be graduate from 42Berlin, with a strong foundation in C and C++. Curr
 
 * 🌍  I'm based in Berlin
 * 🤝  I'm open to collaborating on Web3 applications
-* * ✉️  You can contact me at [teotaneski@gmail.com](mailto:teotaneski@gmail.com)
+* ✉️  You can contact me at [teotaneski@gmail.com](mailto:teotaneski@gmail.com)
 
 ### Skills
 
