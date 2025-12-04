@@ -17,7 +17,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | Jul 14 - Jul 28 | **Mellow Flexible Vaults** | Sherlock  | 1 High, 2 Medium         | [Report](https://audits.sherlock.xyz/contests/964/report)  |
 | Jul 24 - Aug 14 | **Malda**                  | Sherlock  | 2 Medium                 | [Report](https://audits.sherlock.xyz/contests/1029/report) |
 | Oct 27 - Nov 17 | **Reflector V3**           | Code4rena | 1 High, 1 Medium         | Report pending                                             |
-| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi  | 1 Critical 2 High, 3 Low | Report pending                                             |
+| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi  | 3 High, 3 Low            | Report pending                                             |
 ---
 
 ## 📋 Detailed Audit Experience
@@ -30,8 +30,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 **Findings:**
 
-- 1 Critical severity
-- 2 High severity
+- 3 High severity
 - 3 Low severity
 - Report pending public release
 
