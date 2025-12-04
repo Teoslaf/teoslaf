@@ -8,18 +8,48 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 | Date            | Contest                    | Platform  | Findings                 | Links                                                      |
 | --------------- | -------------------------- | --------- | ------------------------ | ---------------------------------------------------------- |
-| Jan 07 - Jan 28            | **First Flights**          | CodeHawks | 12 High, 9 Medium, 6 Low | Educational contests                                       |
+| Jan 07 - Jan 28 | **First Flights**          | CodeHawks | 12 High, 9 Medium, 6 Low | Educational contests                                       |
 | Jan 28 - Feb 4  | **Liquid Ron**             | Code4rena | 1 Medium                 | [Report](https://code4rena.com/reports/2025-01-liquid-ron) |
 | Feb 20 - Feb 26 | **THORWallet**             | Code4rena | 1 High                   | [Report](https://code4rena.com/reports/2025-02-thorwallet) |
 | Mar 5 - Mar 12  | **Badger eBTC BSM**        | Cantina   | 2 High                   | Report pending                                             |
-| Apr 19 - May 7  | **Burve**            | Sherlock  | 1 Medium                 | [Report](https://audits.sherlock.xyz/contests/858/report)  |
+| Apr 19 - May 7  | **Burve**                  | Sherlock  | 1 Medium                 | [Report](https://audits.sherlock.xyz/contests/858/report)  |
 | May 13 - May 18 | **Mystic-monorepo**        | Cantina   | 1 High, 5 Medium, 3 Low  | Report pending                                             |
 | Jul 14 - Jul 28 | **Mellow Flexible Vaults** | Sherlock  | 1 High, 2 Medium         | [Report](https://audits.sherlock.xyz/contests/964/report)  |
 | Jul 24 - Aug 14 | **Malda**                  | Sherlock  | 2 Medium                 | [Report](https://audits.sherlock.xyz/contests/1029/report) |
-
+| Oct 27 - Nov 17 | **Reflector V3**           | Code4rena | 1 High, 1 Medium         | Report pending                                             |
+| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi  | 1 Critical 2 High, 3 Low | Report pending                                             |
 ---
 
 ## 📋 Detailed Audit Experience
+
+#### Alchemix V3
+
+**Duration:** Oct 14 - Nov 04, 2025 | **Platform:** Immunefi  
+**Category:** DeFi  
+**Tech Stack:** Solidity  
+
+**Findings:**
+
+- 1 Critical severity
+- 2 High severity
+- 3 Low severity
+- Report pending public release
+
+---
+
+#### Reflector V3
+
+**Duration:** Oct 27 - Nov 11, 2025 | **Platform:** Immunefi  
+**Category:** Price Oracle  
+**Tech Stack:** Rust  
+
+**Findings:**
+
+- 1 High severity
+- 1 Medium severity
+- Report pending public release
+
+---
 
 #### Malda
 
@@ -29,7 +59,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 **Findings:**
 
-- 2 Medium severity
+- 1 Medium severity
 - [Report](https://audits.sherlock.xyz/contests/1029/report)
 
 ---
@@ -135,10 +165,9 @@ First Flights are educational security contests designed for learning and practi
 
 ### Professional Contests
 
-- **Total Contests:** 7
-- **High Severity Findings:** 5+
-- **Medium Severity Findings:** 12+
-- **Low Severity Findings:** 3+
+- **High Severity Findings:** 9+
+- **Medium Severity Findings:** 13+
+- **Low Severity Findings:** 6+
 - **Platforms:** Sherlock, Code4rena, Cantina
 - **Best Rank:** #8 (THORWallet)
 
