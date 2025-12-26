@@ -16,11 +16,28 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | May 13 - May 18 | **Mystic-monorepo**        | Cantina   | 1 High, 5 Medium, 3 Low  | Report pending                                             |
 | Jul 14 - Jul 28 | **Mellow Flexible Vaults** | Sherlock  | 1 High, 2 Medium         | [Report](https://audits.sherlock.xyz/contests/964/report)  |
 | Jul 24 - Aug 14 | **Malda**                  | Sherlock  | 2 Medium                 | [Report](https://audits.sherlock.xyz/contests/1029/report) |
-| Oct 27 - Nov 17 | **Reflector V3**           | Code4rena | 1 High, 1 Medium         | Report pending                                             |
-| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi  | 3 High, 3 Low            | Report pending                                             |
+| Oct 27 - Nov 17 | **Reflector V3**           | Code4rena   | 1 High, 1 Medium       | Report pending                                             |
+| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit 2 High, 3 Low   | Report pending                                             |
+| Oct 31 - Nov 20 | **Rain**                   | HakenProof  | 2 High, 2 Medium       | Report pending                                             |
+
 ---
 
 ## 📋 Detailed Audit Experience
+
+#### Rain
+
+**Duration:** Oct 31 - Nov 20, 2025 | **Platform:** HackenProof  
+**Category:** Prediction Market
+**Tech Stack:** Solidity  
+
+
+**Findings:**
+
+- 2 High severity
+- 2 Medium severity
+- Report pending public release
+
+---
 
 #### Alchemix V3
 
@@ -30,7 +47,8 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 **Findings:**
 
-- 3 High severity
+- 1 Crit severity
+- 2 High severity
 - 3 Low severity
 - Report pending public release
 
@@ -164,10 +182,11 @@ First Flights are educational security contests designed for learning and practi
 
 ### Professional Contests
 
-- **High Severity Findings:** 9+
-- **Medium Severity Findings:** 13+
+- **Crit Severity Findings:** 1
+- **High Severity Findings:** 11+
+- **Medium Severity Findings:** 14+
 - **Low Severity Findings:** 6+
-- **Platforms:** Sherlock, Code4rena, Cantina
+- **Platforms:** Sherlock, Code4rena, Cantina, Immunefi, HakenProof
 - **Best Rank:** #8 (THORWallet)
 
 ### Educational Contests (CodeHawks First Flights)
@@ -184,5 +203,6 @@ First Flights are educational security contests designed for learning and practi
 - **Code4rena:** [Profile](https://code4rena.com/@teoslaf)
 - **Sherlock:** [Profile](https://audits.sherlock.xyz/watson/teoslaf1)
 - **Cantina:** [Profile](https://cantina.xyz/u/teoslaf1)
+- **HackenProof** [Profile](https://hackenproof.com/hackers/teoslaf1)
 
 ---
