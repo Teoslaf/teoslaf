@@ -19,6 +19,26 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | Oct 27 - Nov 17 | **Reflector V3**           | Code4rena   | 1 High, 1 Medium       | Report pending                                             |
 | Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit 2 High, 3 Low   | Report pending                                             |
 | Oct 31 - Nov 20 | **Rain**                   | HakenProof  | 2 High, 2 Medium       | Report pending                                             |
+| Nov 17 - Nov 23 | **Alignerz**               | DualGuard   | 7 High, 3 Medium 3 Low | Report pending                                             |
+
+
+---
+
+## 📋 Detailed Audit Experience
+
+#### Alignerz
+
+**Duration:** Nov 17 - Nov 23, 2025 | **Platform:** DualGuard  
+**Category:** Token launchpad
+**Tech Stack:** Solidity  
+
+
+**Findings:**
+
+- 7 High severity
+- 3 Medium severity
+- 3 Low severity
+- Report pending public release
 
 ---
 
@@ -183,11 +203,10 @@ First Flights are educational security contests designed for learning and practi
 ### Professional Contests
 
 - **Crit Severity Findings:** 1
-- **High Severity Findings:** 11+
-- **Medium Severity Findings:** 14+
-- **Low Severity Findings:** 6+
-- **Platforms:** Sherlock, Code4rena, Cantina, Immunefi, HakenProof
-- **Best Rank:** #8 (THORWallet)
+- **High Severity Findings:** 17+
+- **Medium Severity Findings:** 17+
+- **Low Severity Findings:** 9+
+- **Platforms:** Sherlock, Code4rena, Cantina, Immunefi, HakenProof, DualGuard
 
 ### Educational Contests (CodeHawks First Flights)
 
