@@ -20,6 +20,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit 2 High, 3 Low   | Report pending                                             |
 | Oct 31 - Nov 20 | **Rain**                   | HackenProof | 2 High, 2 Medium       | Report pending                                             |
 | Nov 17 - Nov 23 | **Alignerz**               | DualGuard   | 7 High, 3 Medium 3 Low | Report pending                                             |
+| Dec 08 - Dec 14 | **Monolith Stablecoin**    | Sherlock    | 1 High, 1 Medium       | Report pending                                             |
 | Dec 16 - Dec 23 | **Reliq**                  | HackenProof | 1 High, 1 Low          | Report pending                                             |
 
 
@@ -30,13 +31,27 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 #### Reliq
 
 **Duration:** Dec 16 - Dec 23, 2025 | **Platform:** HackenProof  
-**Category:** DeFi
+**Category:** DeFi, Lending/Borrowing
 **Tech Stack:** Solidity  
 
 **Findings:**
 
 - 1 High severity
 - 1 Low severity
+- Report pending public release
+
+---
+
+#### Monolith Stablecoin Factory
+
+**Duration:** Dec 08 - Dec 14, 2025 | **Platform:** Sherlock  
+**Category:** DeFi, Stablecoin
+**Tech Stack:** Solidity  
+
+**Findings:**
+
+- 1 High severity
+- 1 Medium severity
 - Report pending public release
 
 ---
@@ -218,8 +233,8 @@ First Flights are educational security contests designed for learning and practi
 ### Professional Contests
 
 - **Crit Severity Findings:** 1
-- **High Severity Findings:** 18+
-- **Medium Severity Findings:** 17+
+- **High Severity Findings:** 19+
+- **Medium Severity Findings:** 18+
 - **Low Severity Findings:** 10+
 - **Platforms:** Sherlock, Code4rena, Cantina, Immunefi, HackenProof, DualGuard
 
