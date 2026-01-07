@@ -18,13 +18,28 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | Jul 24 - Aug 14 | **Malda**                  | Sherlock  | 2 Medium                 | [Report](https://audits.sherlock.xyz/contests/1029/report) |
 | Oct 27 - Nov 17 | **Reflector V3**           | Code4rena   | 1 High, 1 Medium       | Report pending                                             |
 | Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit 2 High, 3 Low   | Report pending                                             |
-| Oct 31 - Nov 20 | **Rain**                   | HakenProof  | 2 High, 2 Medium       | Report pending                                             |
+| Oct 31 - Nov 20 | **Rain**                   | HackenProof | 2 High, 2 Medium       | Report pending                                             |
 | Nov 17 - Nov 23 | **Alignerz**               | DualGuard   | 7 High, 3 Medium 3 Low | Report pending                                             |
+| Dec 16 - Dec 23 | **Reliq**                  | HackenProof | 1 High, 1 Low          | Report pending                                             |
 
 
 ---
 
 ## 📋 Detailed Audit Experience
+
+#### Reliq
+
+**Duration:** Dec 16 - Dec 23, 2025 | **Platform:** HackenProof  
+**Category:** DeFi
+**Tech Stack:** Solidity  
+
+**Findings:**
+
+- 1 High severity
+- 1 Low severity
+- Report pending public release
+
+---
 
 #### Alignerz
 
@@ -203,10 +218,10 @@ First Flights are educational security contests designed for learning and practi
 ### Professional Contests
 
 - **Crit Severity Findings:** 1
-- **High Severity Findings:** 17+
+- **High Severity Findings:** 18+
 - **Medium Severity Findings:** 17+
-- **Low Severity Findings:** 9+
-- **Platforms:** Sherlock, Code4rena, Cantina, Immunefi, HakenProof, DualGuard
+- **Low Severity Findings:** 10+
+- **Platforms:** Sherlock, Code4rena, Cantina, Immunefi, HackenProof, DualGuard
 
 ### Educational Contests (CodeHawks First Flights)
 
