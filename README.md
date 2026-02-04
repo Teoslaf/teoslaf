@@ -19,9 +19,9 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | Oct 27 - Nov 17 | **Reflector V3**           | Code4rena   | 1 High, 1 Medium       | Report pending                                             |
 | Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit 2 High, 3 Low   | Report pending                                             |
 | Oct 31 - Nov 20 | **Rain**                   | HackenProof | 2 High, 2 Medium       | Report pending                                             |
-| Nov 17 - Nov 23 | **Alignerz**               | DualGuard   | 8 High, 3 Medium 3 Low | Report pending                                             |
+| Nov 17 - Nov 23 | **Alignerz**               | DualGuard   | 8 High, 3 Medium 3 Low | [Report](https://github.com/dualguard/2025-11-judging-alignerz)                                             |
 | Dec 08 - Dec 14 | **Monolith Stablecoin**    | Sherlock    | 1 High, 1 Medium       | Report pending                                             |
-| Dec 16 - Dec 23 | **Reliq**                  | HackenProof | 1 High, 1 Low          | Report pending                                             |
+| Dec 16 - Dec 23 | **Reliq**                  | HackenProof | 1 High, 1 Low          | [Report](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest?tab=reports)                                             |
 
 
 ---
@@ -38,7 +38,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 - 1 High severity
 - 1 Low severity
-- Report pending public release
+- [Report](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest?tab=reports)
 
 ---
 
@@ -68,7 +68,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 - 8 High severity
 - 3 Medium severity
 - 3 Low severity
-- Report pending public release
+- [Report](https://github.com/dualguard/2025-11-judging-alignerz) 
 
 ---
 
