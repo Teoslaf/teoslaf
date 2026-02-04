@@ -11,13 +11,13 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | Jan 07 - Jan 28 | **First Flights**          | CodeHawks | 12 High, 9 Medium, 6 Low | Educational contests                                       |
 | Jan 28 - Feb 4  | **Liquid Ron**             | Code4rena | 1 Medium                 | [Report](https://code4rena.com/reports/2025-01-liquid-ron) |
 | Feb 20 - Feb 26 | **THORWallet**             | Code4rena | 1 High                   | [Report](https://code4rena.com/reports/2025-02-thorwallet) |
-| Mar 5 - Mar 12  | **Badger eBTC BSM**        | Cantina   | 2 High                   | Report pending                                             |
+| Mar 5 - Mar 12  | **Badger eBTC BSM**        | Cantina   | 2 High                   | [Report](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard)                                            |
 | Apr 19 - May 7  | **Burve**                  | Sherlock  | 1 Medium                 | [Report](https://audits.sherlock.xyz/contests/858/report)  |
-| May 13 - May 18 | **Mystic-monorepo**        | Cantina   | 1 High, 5 Medium, 3 Low  | Report pending                                             |
+| May 13 - May 18 | **Mystic-monorepo**        | Cantina   | 1 High, 5 Medium, 3 Low  | [Report](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/overview/leaderboard)                                          |
 | Jul 14 - Jul 28 | **Mellow Flexible Vaults** | Sherlock  | 1 High, 2 Medium         | [Report](https://audits.sherlock.xyz/contests/964/report)  |
 | Jul 24 - Aug 14 | **Malda**                  | Sherlock  | 2 Medium                 | [Report](https://audits.sherlock.xyz/contests/1029/report) |
-| Oct 27 - Nov 17 | **Reflector V3**           | Code4rena   | 1 High, 1 Medium       | Report pending                                             |
-| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit 2 High, 3 Low   | Report pending                                             |
+| Oct 27 - Nov 17 | **Reflector V3**           | Code4rena   | 1 High, 1 Medium       | [Report](https://code4rena.com/reports/2025-10-reflector-v3)                                            |
+| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit 2 High, 3 Low   | [Report](https://reports.immunefi.com/alchemix-v3?utm_source=boost_program_page)                                             |
 | Oct 31 - Nov 20 | **Rain**                   | HackenProof | 2 High, 2 Medium       | Report pending                                             |
 | Nov 17 - Nov 23 | **Alignerz**               | DualGuard   | 8 High, 3 Medium 3 Low | [Report](https://github.com/dualguard/2025-11-judging-alignerz)                                             |
 | Dec 08 - Dec 14 | **Monolith Stablecoin**    | Sherlock    | 1 High, 1 Medium       | Report pending                                             |
@@ -100,7 +100,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 - 1 Crit severity
 - 2 High severity
 - 3 Low severity
-- Report pending public release
+- [Report](https://reports.immunefi.com/alchemix-v3?utm_source=boost_program_page)
 
 ---
 
@@ -114,7 +114,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 - 1 High severity
 - 1 Medium severity
-- Report pending public release
+- [Report](https://code4rena.com/reports/2025-10-reflector-v3)
 
 ---
 
@@ -153,10 +153,8 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 **Findings:**
 
-- 1 High severity
-- 5 Medium severity
-- 3 Low severity
-- Report pending public release
+- 2 High severity issues
+- [Report](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard)
 
 ---
 
@@ -182,8 +180,10 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 **Findings:**
 
-- 2 High severity issues
-- Report pending public release
+- 1 High severity
+- 5 Medium severity
+- 3 Low severity
+- [Report](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/overview/leaderboard)  
 
 ---
 
