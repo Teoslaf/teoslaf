@@ -248,8 +248,9 @@ First Flights are educational security contests designed for learning and practi
 
 ## 🔗 Links
 - **X:** [Profile](https://x.com/teoslaf1)
-- **Code4rena:** [Profile](https://code4rena.com/@teoslaf)
 - **Sherlock:** [Profile](https://audits.sherlock.xyz/watson/teoslaf1)
+- **Code4rena:** [Profile](https://code4rena.com/@teoslaf)
+- **Immunifi** [Profile](https://immunefi.com/profile/teoslaf1/)
 - **Cantina:** [Profile](https://cantina.xyz/u/teoslaf1)
 - **HackenProof** [Profile](https://hackenproof.com/hackers/teoslaf1)
 
