@@ -17,7 +17,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | Jul 14 - Jul 28 | **Mellow Flexible Vaults** | Sherlock  | 1 High, 2 Medium         | [Report](https://audits.sherlock.xyz/contests/964/report)  |
 | Jul 24 - Aug 14 | **Malda**                  | Sherlock  | 2 Medium                 | [Report](https://audits.sherlock.xyz/contests/1029/report) |
 | Oct 27 - Nov 17 | **Reflector V3**           | Code4rena   | 1 High, 1 Medium       | [Report](https://code4rena.com/reports/2025-10-reflector-v3)                                            |
-| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit 2 High, 3 Low   | [Report](https://reports.immunefi.com/alchemix-v3?utm_source=boost_program_page)                                             |
+| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit, 2 High, 3 Low   | [Report](https://reports.immunefi.com/alchemix-v3?utm_source=boost_program_page)                                             |
 | Oct 31 - Nov 20 | **Rain**                   | HackenProof | 2 High, 2 Medium       | Report pending                                             |
 | Nov 17 - Nov 23 | **Alignerz**               | DualGuard   | 8 High, 3 Medium 3 Low | [Report](https://github.com/dualguard/2025-11-judging-alignerz)                                             |
 | Dec 08 - Dec 14 | **Monolith Stablecoin**    | Sherlock    | 1 Medium               | Report pending                                             |
@@ -71,8 +71,6 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 ---
 
-## 📋 Detailed Audit Experience
-
 #### Rain
 
 **Duration:** Oct 31 - Nov 20, 2025 | **Platform:** HackenProof  
@@ -105,7 +103,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 #### Reflector V3
 
-**Duration:** Oct 27 - Nov 11, 2025 | **Platform:** Immunefi  
+**Duration:** Oct 27 - Nov 17, 2025 | **Platform:** Code4rena  
 **Category:** Price Oracle  
 **Tech Stack:** Rust  
 
@@ -125,7 +123,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 **Findings:**
 
-- 1 Medium severity
+- 2 Medium severity
 - [Report](https://audits.sherlock.xyz/contests/1029/report)
 
 ---
@@ -144,16 +142,18 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 ---
 
-#### Badger eBTC BSM
+#### Mystic-monorepo
 
 **Duration:** May 13 - May 18, 2025 | **Platform:** Cantina  
-**Category:** DeFi, Bitcoin Staking  
+**Category:** DeFi  
 **Tech Stack:** Solidity  
 
 **Findings:**
 
-- 2 High severity issues
-- [Report](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard)
+- 1 High severity
+- 5 Medium severity
+- 3 Low severity
+- [Report](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/overview/leaderboard)
 
 ---
 
@@ -179,10 +179,8 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 **Findings:**
 
-- 1 High severity
-- 5 Medium severity
-- 3 Low severity
-- [Report](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/overview/leaderboard)  
+- 2 High severity
+- [Report](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard)
 
 ---
 
@@ -212,7 +210,7 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 ---
 
-##  Learning & Practice
+## Learning & Practice
 
 ### CodeHawks First Flights
 
@@ -232,7 +230,7 @@ First Flights are educational security contests designed for learning and practi
 ### Professional Contests
 
 - **Crit Severity Findings:** 1
-- **High Severity Findings:** 20+
+- **High Severity Findings:** 19+
 - **Medium Severity Findings:** 18+
 - **Low Severity Findings:** 10+
 - **Platforms:** Sherlock, Code4rena, Cantina, Immunefi, HackenProof, DualGuard
@@ -250,8 +248,8 @@ First Flights are educational security contests designed for learning and practi
 - **X:** [Profile](https://x.com/teoslaf1)
 - **Sherlock:** [Profile](https://audits.sherlock.xyz/watson/teoslaf1)
 - **Code4rena:** [Profile](https://code4rena.com/@teoslaf)
-- **Immunifi** [Profile](https://immunefi.com/profile/teoslaf1/)
+- **Immunefi:** [Profile](https://immunefi.com/profile/teoslaf1/)
 - **Cantina:** [Profile](https://cantina.xyz/u/teoslaf1)
-- **HackenProof** [Profile](https://hackenproof.com/hackers/teoslaf1)
+- **HackenProof:** [Profile](https://hackenproof.com/hackers/teoslaf1)
 
 ---
