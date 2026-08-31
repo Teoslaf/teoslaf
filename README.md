@@ -24,6 +24,27 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | Dec 16 - Dec 23 | **Reliq**                  | HackenProof | 1 High, 1 Low          | [Report](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest?tab=reports)                                             |
 
 
+## 🔬 Research & Private Engagements
+
+### 2026
+
+#### Ostium — Same-Second Oracle Timestamp Issue
+
+**Date:** May 2026 (privately disclosed; write-up published Jul 2026)  
+**Category:** DeFi, Oracle / Price Feed  
+**Tech Stack:** Solidity  
+
+Identified a sub-second oracle staleness issue in Ostium's settlement path — an exact `block.timestamp == observationsTimestamp` check let trades fill against a stale same-second oracle price. Privately disclosed to the team and stopped trading before writing it up.
+
+- [Write-up](https://x.com/teoslaf1/status/2079921615232520584)
+
+---
+
+#### Private Security Review — Pashov Audit Group
+
+**Date:** Aug 2026  
+Details withheld under NDA.
+
 ---
 
 ## 📋 Detailed Audit Experience
