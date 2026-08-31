@@ -2,26 +2,27 @@
 
 I'm a 42school graduate turned blockchain security researcher. I specialize in finding vulnerabilities in smart contracts, and helping teams ship secure Web3 applications.
 
-## 🏆 Contest Results
+## 🏆 Experience Summary
 
-### 2025
-
-| Date            | Contest                    | Platform  | Findings                 | Links                                                      |
-| --------------- | -------------------------- | --------- | ------------------------ | ---------------------------------------------------------- |
-| Jan 07 - Jan 28 | **First Flights**          | CodeHawks | 12 High, 9 Medium, 6 Low | Educational contests                                       |
-| Jan 28 - Feb 4  | **Liquid Ron**             | Code4rena | 1 Medium                 | [Report](https://code4rena.com/reports/2025-01-liquid-ron) |
-| Feb 20 - Feb 26 | **THORWallet**             | Code4rena | 1 High                   | [Report](https://code4rena.com/reports/2025-02-thorwallet) |
-| Mar 5 - Mar 12  | **Badger eBTC BSM**        | Cantina   | 2 High                   | [Report](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard)                                            |
-| Apr 19 - May 7  | **Burve**                  | Sherlock  | 1 Medium                 | [Report](https://audits.sherlock.xyz/contests/858/report)  |
-| May 13 - May 18 | **Mystic-monorepo**        | Cantina   | 1 High, 5 Medium, 3 Low  | [Report](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/overview/leaderboard)                                          |
-| Jul 14 - Jul 28 | **Mellow Flexible Vaults** | Sherlock  | 1 High, 2 Medium         | [Report](https://audits.sherlock.xyz/contests/964/report)  |
-| Jul 24 - Aug 14 | **Malda**                  | Sherlock  | 2 Medium                 | [Report](https://audits.sherlock.xyz/contests/1029/report) |
-| Oct 27 - Nov 17 | **Reflector V3**           | Code4rena   | 1 High, 1 Medium       | [Report](https://code4rena.com/reports/2025-10-reflector-v3)                                            |
-| Oct 14 - Nov 04 | **Alchemix V3**            | Immunefi    | 1 Crit, 2 High, 3 Low   | [Report](https://reports.immunefi.com/alchemix-v3?utm_source=boost_program_page)                                             |
-| Oct 31 - Nov 20 | **Rain**                   | HackenProof | 2 High, 2 Medium       | Report pending                                             |
-| Nov 17 - Nov 23 | **Alignerz**               | DualGuard   | 8 High, 3 Medium 3 Low | [Report](https://github.com/dualguard/2025-11-judging-alignerz)                                             |
-| Dec 08 - Dec 14 | **Monolith Stablecoin**    | Sherlock    | 1 Medium               | Report pending                                             |
-| Dec 16 - Dec 23 | **Reliq**                  | HackenProof | 1 High, 1 Low          | [Report](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest?tab=reports)                                             |
+| Date                | Engagement                  | Platform          | Findings                            | Links |
+| ------------------- | --------------------------- | ----------------- | ----------------------------------- | ----- |
+| Aug 18–20, 2026     | **Private security review** | Pashov Audit Group | Under NDA                          | — |
+| May 2026            | **Ostium**                  | Private disclosure | Oracle timestamp issue             | [Write-up](https://x.com/teoslaf1/status/2079921615232520584) |
+| 2026                | **Bug bounties**            | Immunefi          | 1 Crit, 4 High, 1 Medium, 1 Low (7 dups) | — |
+| Dec 16–23, 2025     | **Reliq**                   | HackenProof       | 1 High, 1 Low                      | [Report](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest?tab=reports) |
+| Dec 08–14, 2025     | **Monolith Stablecoin**     | Sherlock          | 1 Medium                           | Report pending |
+| Nov 17–23, 2025     | **Alignerz**                | DualGuard         | 8 High, 3 Medium, 3 Low            | [Report](https://github.com/dualguard/2025-11-judging-alignerz) |
+| Oct 31–Nov 20, 2025 | **Rain**                    | HackenProof       | 2 High, 2 Medium                   | Report pending |
+| Oct 14–Nov 04, 2025 | **Alchemix V3**             | Immunefi          | 1 Crit, 2 High, 3 Low              | [Report](https://reports.immunefi.com/alchemix-v3?utm_source=boost_program_page) |
+| Oct 27–Nov 17, 2025 | **Reflector V3**            | Code4rena         | 1 High, 1 Medium                   | [Report](https://code4rena.com/reports/2025-10-reflector-v3) |
+| Jul 24–Aug 14, 2025 | **Malda**                   | Sherlock          | 2 Medium                           | [Report](https://audits.sherlock.xyz/contests/1029/report) |
+| Jul 14–28, 2025     | **Mellow Flexible Vaults**  | Sherlock          | 1 High, 2 Medium                   | [Report](https://audits.sherlock.xyz/contests/964/report) |
+| May 13–18, 2025     | **Mystic-monorepo**         | Cantina           | 1 High, 5 Medium, 3 Low            | [Report](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/overview/leaderboard) |
+| Apr 19–May 7, 2025  | **Burve**                   | Sherlock          | 1 Medium                           | [Report](https://audits.sherlock.xyz/contests/858/report) |
+| Mar 5–12, 2025      | **Badger eBTC BSM**         | Cantina           | 2 High                             | [Report](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview/leaderboard) |
+| Feb 20–26, 2025     | **THORWallet**              | Code4rena         | 1 High                             | [Report](https://code4rena.com/reports/2025-02-thorwallet) |
+| Jan 28–Feb 4, 2025  | **Liquid Ron**              | Code4rena         | 1 Medium                           | [Report](https://code4rena.com/reports/2025-01-liquid-ron) |
+| Jan 07–28, 2025     | **First Flights**           | CodeHawks         | 12 High, 9 Medium, 6 Low (educational) | — |
 
 ---
 
@@ -221,6 +222,13 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 
 ### 2026
 
+#### Private Security Review — Pashov Audit Group
+
+**Date:** Aug 2026  
+Details withheld under NDA.
+
+---
+
 #### Ostium — Same-Second Oracle Timestamp Issue
 
 **Date:** May 2026 (privately disclosed; write-up published Jul 2026)  
@@ -230,13 +238,6 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 Identified a sub-second oracle staleness issue in Ostium's settlement path — an exact `block.timestamp == observationsTimestamp` check let trades fill against a stale same-second oracle price. Privately disclosed to the team and stopped trading before writing it up.
 
 - [Write-up](https://x.com/teoslaf1/status/2079921615232520584)
-
----
-
-#### Private Security Review — Pashov Audit Group
-
-**Date:** Aug 2026  
-Details withheld under NDA.
 
 ---
 
