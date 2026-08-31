@@ -24,6 +24,14 @@ I'm a 42school graduate turned blockchain security researcher. I specialize in f
 | Dec 16 - Dec 23 | **Reliq**                  | HackenProof | 1 High, 1 Low          | [Report](https://hackenproof.com/audit-programs/reliq-smart-contract-audit-contest?tab=reports)                                             |
 
 
+## 🐛 Bug Bounties
+
+### Immunefi
+
+- **1 Critical, 4 High, 1 Medium, 1 Low** — 7 duplicate reports (already-known issues).
+
+---
+
 ## 🔬 Research & Private Engagements
 
 ### 2026
